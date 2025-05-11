@@ -40,20 +40,31 @@ Eric Qu<sup>*</sup>, **Lige Zhang**<sup>*</sup>, Debaya Habib, Yue Wu, Dongmian 
 <sub><sup>*</sup> Equal contribution. <sup>✉</sup> Corresponding author.</sub>
 - Developed novel convolution operations in hyperbolic space via diverse hyperbolic models, including Lorentz model, Poincre and Klein disk.
 
-<div><div>
-
 # 🧾 Patents
-- *Fall, 2024*, **[A unified approach for drug target identification and antiviral screening](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)** (ID: CN119223924A)
 
-- *Fall, 2024*, **[A method for screening drugs for monkeypox viruses](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)** (ID: CN119479779A)
+- *Fall, 2024*, **[A unified approach for drug target identification and antiviral screening](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)**  
+  ID: CN119223924A
+
+- *Fall, 2024*, **[A method for screening drugs for monkeypox viruses](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)**  
+  ID: CN119479779A
+
+---
 
 # 🎖 Honors and Awards
-- *Spring 2024, Fall 2024* Duke Kunshan University Dean’s List. 
-- *Spring 2023* Duke Kunshan University Dean’s List. 
-- *Fall, 2022* Duke Kunshan University Admission Scholarship. 
+
+- *Spring 2024, Fall 2024*, **Dean’s List**, Duke Kunshan University  
+- *Spring 2023*, **Dean’s List**, Duke Kunshan University  
+- *Fall 2022*, **Admission Scholarship**, Duke Kunshan University
+
+---
 
 # 📖 Educations
-- *2022.06 - 2025.05 (now)*, Undergraduate Students, DukeKunshan University, Duke Dual Degree Program. 
 
-# 💻 Academic Service
-- NaN, [Jiangsu], China.
+- *2022.06 – Present*, **Undergraduate Student**, Duke Kunshan University  
+  Duke Dual Degree Program
+
+---
+
+# 🛠 Academic Service
+
+- NaN
