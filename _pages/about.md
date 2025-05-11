@@ -36,7 +36,7 @@ My research interests include:
   </div>
   <div class='paper-box-text'>
     <strong>Hyperbolic Kernel Convolution: A Generic Framework</strong><br>
-    <em>LoG 2025 | Learning on Graphs Conference</em><br>
+    <em>LoG 2024 | Learning on Graphs Conference</em><br>
     Eric Qu<sup>*</sup>, <strong>Lige Zhang</strong><sup>*</sup>, Debaya Habib, Yue Wu, Dongmian Zou<sup>✉</sup><br>
     <a href="https://openreview.net/pdf?id=38SRU0BwXk">PDF</a> |
     <a href="https://github.com/BruceZhangReve/Hyperbolic-Kernel-Convolution">Code</a>
