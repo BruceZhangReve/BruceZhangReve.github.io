@@ -32,7 +32,7 @@ My research interests include:
 # 📝 Publications 
 <div class='paper-box'>
   <div class='paper-box-image' style="text-align: center;">
-    <img src='{{ "images/LoG Poster.png" | relative_url }}' alt="Hyperbolic Convolution Framework" width="100%">
+    <img src='{{"images/LoG Poster.png" | relative_url}}' alt="Hyperbolic Convolution Framework" width="100%">
   </div>
   <div class='paper-box-text'>
     <strong>Hyperbolic Kernel Convolution: A Generic Framework</strong><br>
