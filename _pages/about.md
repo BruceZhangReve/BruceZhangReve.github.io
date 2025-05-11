@@ -40,6 +40,8 @@ Eric Qu<sup>*</sup>, **Lige Zhang**<sup>*</sup>, Debaya Habib, Yue Wu, Dongmian 
 <sub><sup>*</sup> Equal contribution. <sup>✉</sup> Corresponding author.</sub>
 - Developed novel convolution operations in hyperbolic space via diverse hyperbolic models, including Lorentz model, Poincre and Klein disk.
 
+<div><div>
+
 # 🧾 Patents
 - *Fall, 2024*, **[A unified approach for drug target identification and antiviral screening](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)** (ID: CN119223924A)
 
