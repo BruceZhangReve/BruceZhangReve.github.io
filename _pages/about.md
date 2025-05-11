@@ -38,7 +38,8 @@ My research interests include:
 **Authors**:  
 Eric Qu<sup>*</sup>, **Lige Zhang**<sup>*</sup>, Debaya Habib, Yue Wu, Dongmian Zou<sup>✉</sup>  
 <sub><sup>*</sup> Equal contribution. <sup>✉</sup> Corresponding author.</sub>
-- Developed novel convolution operations in hyperbolic space via diverse hyperbolic models, including Lorentz model, Poincre and Klein disk.
+- Developed novel convolution operations in hyperbolic space via diverse hyperbolic models, including Lorentz model, Poincaré and Klein disk.
+</div></div>
 
 # 🧾 Patents
 
@@ -59,9 +60,11 @@ Eric Qu<sup>*</sup>, **Lige Zhang**<sup>*</sup>, Debaya Habib, Yue Wu, Dongmian 
 ---
 
 # 📖 Educations
+- **B.S. in Data Science** (Expected Graduationn in 2026)  
+  Duke Kunshan University/ Duke University
 
-- *2022.06 – Present*, **Undergraduate Student**, Duke Kunshan University  
-  Duke Dual Degree Program
+- **Visiting Student** (Summer 2025)  
+  Yale University  
 
 ---
 
