@@ -31,16 +31,21 @@ My research interests include:
 
 # 📝 Publications 
 <div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='{{ "/assets/images/LoG Poster.png" | relative_url }}' alt="Hyperbolic Convolution Framework" width="100%">
+  <div class='paper-box-image' style="text-align: center;">
+    <img src='{{ "images/LoG Poster.png" | relative_url }}' alt="Hyperbolic Convolution Framework" width="100%">
   </div>
   <div class='paper-box-text'>
     <strong>Hyperbolic Kernel Convolution: A Generic Framework</strong><br>
     <em>LoG 2025 | Learning on Graphs Conference</em><br>
     Eric Qu<sup>*</sup>, <strong>Lige Zhang</strong><sup>*</sup>, Debaya Habib, Yue Wu, Dongmian Zou<sup>✉</sup><br>
-    <a href="https://openreview.net/pdf?id=38SRU0BwXk">PDF</a> | 
+    <a href="https://openreview.net/pdf?id=38SRU0BwXk">PDF</a> |
     <a href="https://github.com/BruceZhangReve/Hyperbolic-Kernel-Convolution">Code</a>
-    <p>Developed novel convolution operations in hyperbolic space via diverse hyperbolic models, including Lorentz model, Poincaré and Klein disk.</p>
+    <p>
+      Developed novel convolution operations in hyperbolic space via diverse hyperbolic models, including Lorentz model, Poincaré and Klein disk.
+    </p>
+    <p style="font-size: 0.9em;">
+      <sup>*</sup> Equal contribution. <sup>✉</sup> Corresponding author.
+    </p>
   </div>
 </div>
 
