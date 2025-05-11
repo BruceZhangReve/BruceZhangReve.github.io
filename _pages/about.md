@@ -30,6 +30,7 @@ My research interests include:
 - *2024.12*: &nbsp;🎉🎉 Paper Accepted [Hyperbolic Kernel Convolution: A Generic Framework](https://openreview.net/pdf?id=38SRU0BwXk). 
 
 # 📝 Publications 
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class="conference-badge">LoG 2025</div>
