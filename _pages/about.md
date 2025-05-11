@@ -43,7 +43,7 @@ Eric Qu<sup>*</sup>, **Lige Zhang**<sup>*</sup>, Debaya Habib, Yue Wu, Dongmian 
 </div>
 </div>
 
-# 📝 Patents
+# 🧾 Patents
 
 
 # 🎖 Honors and Awards
@@ -53,9 +53,5 @@ Eric Qu<sup>*</sup>, **Lige Zhang**<sup>*</sup>, Debaya Habib, Yue Wu, Dongmian 
 # 📖 Educations
 - *2022.06 - 2025.05 (now)*, Undergraduate Students, DukeKunshan University, Duke Dual Degree Program. 
 
-# 💻 Interships
+# 💻 Academic Service
 - **, [Lorem](https://github.com/), China.
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
