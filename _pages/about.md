@@ -53,7 +53,7 @@ Eric Qu<sup>*</sup>, **Lige Zhang**<sup>*</sup>, Debaya Habib, Yue Wu, Dongmian 
 # 📖 Educations
 - *2022.06 - 2025.05 (now)*, Undergraduate Students, DukeKunshan University, Duke Dual Degree Program. 
 
-# 💻 Academic Service
+# 💻 Interships
 - **, [Lorem](https://github.com/), China.
 
 # 💬 Invited Talks
