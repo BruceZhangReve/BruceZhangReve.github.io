@@ -33,7 +33,7 @@ My research interests include:
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class="conference-badge">LoG 2025</div>
-    <img src='images/LoG Poster.png' alt="Hyperbolic Convolution Framework" width="100%">
+    <img src='images/LoG_Poster.png' alt="Hyperbolic Convolution Framework" width="100%">
   </div>
   <div class='paper-box-text'>
     <strong>Hyperbolic Kernel Convolution: A Generic Framework</strong><br>
