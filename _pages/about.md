@@ -21,7 +21,7 @@ Hi! I'm **Bruce Lige Zhang**, an undergraduate student in data science.
 My research interests include:
 
 - Geometric Deep Learning (e.g. Graphs, Hypergraphs, Manifold, Non-Euclidean Space)
-- Stochastic Generative models  (e.g. Flow Matching, VAE)
+- Generative models  (e.g. Flow Matching, Score Matching, VAE)
 - Foundation Models (e.g. Time Series Foundation Models)
 - AI For Health and Biology (e.g. Computational Drug Repurposing)
 
