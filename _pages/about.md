@@ -17,13 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm **Bruce Lige Zhang**, an undergraduate student in data science. 
+Hi! I'm **Lige Zhang**, an undergraduate student in data science. 
 My research interests include:
-
-- Geometric Deep Learning (e.g. Graphs, Hypergraphs, Manifold, Non-Euclidean Space)
+- Geometric Deep Learning (e.g. Graph, Hypergraph, Manifold, Non-Euclidean Space)
 - Generative models  (e.g. Flow Matching, Score Matching, VAE)
 - Foundation Models (e.g. Time Series Foundation Models)
-- AI For Health and Biology (e.g. Computational Drug Repurposing)
+- AI For Health and Biology (e.g. Computational Drug Discovery)
 
 
 # 🔥 News
