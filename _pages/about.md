@@ -24,6 +24,10 @@ My research interests include:
 - Foundation Models (e.g. Time Series Foundation Models)
 - AI For Health and Biology (e.g. Computational Drug Discovery)
 
+Deeply influenced by Professor [Hubert Bray](https://professorbray.net/index.php), my mission statement is developed as follows:
+
+"Enjoy making the world a better place, in every possible way, no matter how small, as best I can."
+
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 Paper Accepted [Hyperbolic Kernel Convolution: A Generic Framework](https://openreview.net/pdf?id=38SRU0BwXk). 
