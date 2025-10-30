@@ -30,7 +30,8 @@ Deeply influenced by Professor [Hubert Bray](https://professorbray.net/index.php
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 Paper Accepted [Hyperbolic Kernel Convolution: A Generic Framework](https://openreview.net/pdf?id=38SRU0BwXk). 
+- *2025.10*: &nbsp;🎉🎉 Paper Accepted as **Oral** at LoG2025  [Exploring Intrinsic Structures of Hyperedges as Point Clouds]([https://openreview.net/pdf?id=38SRU0BwXk](https://openreview.net/forum?id=CIYl0o3d5d#discussion). 
+- *2024.12*: &nbsp;🎉🎉 Paper Accepted at LoG2024 [Hyperbolic Kernel Convolution: A Generic Framework](https://openreview.net/pdf?id=38SRU0BwXk). 
 
 # 📝 Publications 
 <div class='paper-box'>
@@ -52,6 +53,7 @@ Deeply influenced by Professor [Hubert Bray](https://professorbray.net/index.php
   </div>
 </div>
 
+
 # 🧾 Patents
 
 - *Fall, 2024*, **[A unified approach for drug target identification and antiviral screening](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)**  
@@ -64,7 +66,8 @@ Deeply influenced by Professor [Hubert Bray](https://professorbray.net/index.php
 
 # 🎖 Honors and Awards
 
-- *Spring 2024, Fall 2024*, **Dean’s List**, Duke Kunshan University  
+- *Spring 2025*, **Dean’s List with Distinction**, Duke Kunshan University  
+- *Spring 2024, Fall 2024*, **Dean’s List with Distinction**, Duke Kunshan University  
 - *Spring 2023*, **Dean’s List**, Duke Kunshan University  
 - *Fall 2022*, **Admission Scholarship**, Duke Kunshan University
 
@@ -74,11 +77,13 @@ Deeply influenced by Professor [Hubert Bray](https://professorbray.net/index.php
 - **B.S. in Data Science** (Expected Graduationn in 2026)  
   Duke Kunshan University/ Duke University
 
-- **Visiting Student** (Summer 2025)  
-  Yale University  
+- **Visiting Research Student** (Summer 2025)  
+  Yale University | Graph and Geometric Learning Lab  
 
 ---
 
 # 🛠 Academic Service
 
-- NaN
+- Teaching Assistant for STATS303 (Statitical Machine Learninig)
+  Lead the recitation session.
+  
